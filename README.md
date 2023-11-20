@@ -1,6 +1,6 @@
-# Linux-cheat-sheet
+    # Linux-cheat-sheet
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@pavanN](https://twitter.com/pavanN) for technical updates.
 
 ### Table of Contents
 
@@ -30,14 +30,14 @@
 
    ```bash
    $ who
-   sudheer :0 2019-08-04 01:21 (:0)
+   pavan :0 2019-08-04 01:21 (:0)
    ```
 
 2. **whoami:** It display the system’s username
 
    ```bash
    $ whoami
-   sudheer
+   pavan
    ```
 
 3. **id:** It display the user identification(the real and effective user and group IDs) information
@@ -315,7 +315,7 @@ Each file or directory has following permissions for the above 3 types of owners
 
     The above authorization levels represented in a diagram
 
-<img src="https://github.com/sudheerj/Linux-cheat-sheet/blob/master/images/permissions.png" width="600" height="400">
+<img src="https://github.com/pavanj/Linux-cheat-sheet/blob/master/images/permissions.png" width="600" height="400">
 
 There is a need to restrict own file/directory access to others.
 
